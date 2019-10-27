@@ -107,7 +107,7 @@ workflows:
       - Quality:
           requires:
             - Dependencies
-      - Analysis:
-          requires:
-            - Security
-            - Quality
+      # - Analysis:
+      #     requires:
+      #       - Security
+      #       - Quality
