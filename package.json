@@ -40,7 +40,7 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "lint": "eslint --ext .jsx --ext .js src/ pages/"
+    "lint": "eslint --ext .jsx --ext .js src/"
   },
   "repository": {
     "type": "git",
